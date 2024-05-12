@@ -34,9 +34,8 @@ Packet Analysis with the VPN OFF:  <br/>
 <br />
 <br />
 Turning the VPN on: <br/>
-<img src="https://i.imgur.com/zy0Eekr.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
-Packet Analysis with the VPN ON:  <br/>
-<br />
+<img src="https://i.imgur.com/zy0Eekr.png height="50%" width="50%" alt="Disk Sanitization Steps"/> <br/> 
+Packet Analysis with the VPN ON:
 <br />
 <img src="https://i.imgur.com/PIalPOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
