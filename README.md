@@ -41,8 +41,10 @@ Packet Analysis with the VPN ON:
 <br />
 <br />
 Refernces:  <br/>
-- [CodewithMarci. (2018). FTP Connection on AWS EC2 Windows Server](https://www.youtube.com/watch?v=MSYubvIs8NI)
-- [NetworkChuck. (2020). Set up FREE VPN server in the cloud (AWS)](https://www.youtube.com/watch?v=m-i2JBtG4FE)
+- <b>CodewithMarci. (2018). FTP Connection on AWS EC2 Windows Server <br />
+https://www.youtube.com/watch?v=MSYubvIs8NI <br />
+- <b>NetworkChuck. (2020). Set up FREE VPN server in the cloud (AWS) <br />
+https://www.youtube.com/watch?v=m-i2JBtG4FE
 <br />
 <br />
 </p>
