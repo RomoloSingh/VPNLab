@@ -25,20 +25,20 @@ OpenVPN Server: <br/>
 <img src="https://i.imgur.com/TS3DZOV.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+WinSCP to FTP Server:  <br/>
 <img src="https://i.imgur.com/175zdNR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/zy0Eekr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
+Packet Analysis with the VPN OFF:  <br/>
 <img src="https://i.imgur.com/fOj39LS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Turning the VPN on: <br/>
+<img src="https://i.imgur.com/zy0Eekr.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Packet Analysis with the VPN ON:  <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/PIalPOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
