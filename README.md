@@ -1,4 +1,4 @@
-<h1>JVPN Deployment & Traffic Analysisn</h1>
+<h1>VPN Deployment & Traffic Analysis Final Project</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
