@@ -40,7 +40,7 @@ Packet Analysis with the VPN ON:
 <img src="https://i.imgur.com/PIalPOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Refernces:  <br/>
+References:  <br/>
 <b>CodewithMarci. (2018). FTP Connection on AWS EC2 Windows Server</b> <br />
 https://www.youtube.com/watch?v=MSYubvIs8NI <br />
 <b>NetworkChuck. (2020). Set up FREE VPN server in the cloud (AWS)</b> <br />
