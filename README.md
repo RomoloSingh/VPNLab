@@ -40,12 +40,11 @@ Packet Analysis with the VPN ON:
 <img src="https://i.imgur.com/PIalPOQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Refernces:  <br/>
+- [CodewithMarci. (2018). FTP Connection on AWS EC2 Windows Server](https://www.youtube.com/watch?v=MSYubvIs8NI)
+- [NetworkChuck. (2020). Set up FREE VPN server in the cloud (AWS)](https://www.youtube.com/watch?v=m-i2JBtG4FE)
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
