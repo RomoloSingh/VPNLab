@@ -22,7 +22,7 @@ For our Client Operating System class final project, we developed a Virtual Priv
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/TS3DZOV" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TS3DZOV.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
