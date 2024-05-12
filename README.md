@@ -3,8 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project involved creating a Virtual Private Network (VPN) File Transfer Protocol (FTP) system to transfer files securely. It utilized a VPN to encrypt traffic between a client (Dell) and server (HP) computer, ensuring data privacy. The VPN, when enabled, encrypted data for secure transmission, while disabling it exposed data in plain text. The project used Amazon Workspace, Windows VM, Open VPN, WINSCP, and Wireshark for setup and analysis. It highlighted the importance of VPNs in securing data over public networks.
-<br />
+For our Client Operating System class final project, we developed a Virtual Private Network (VPN) File Transfer Protocol (FTP) system. This involved creating an FTP server and a VPN server to encrypt data transfer. We used Amazon Workspace, Windows VM, Open VPN, WINSCP, and Wireshark for setup and analysis. By enabling the VPN, we encrypted data for secure transmission, demonstrating the importance of VPNs in data security over public networks.<br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -17,7 +16,7 @@ Project involved creating a Virtual Private Network (VPN) File Transfer Protocol
 <h2>Environments Used </h2>
 
 - <b>Amazon Workspaces</b>
-- <b>Windows Server</b>
+- <b>Windows Virtual Server</b>
 
 <h2>Program walk-through:</h2>
 
