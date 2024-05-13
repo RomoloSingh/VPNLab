@@ -18,7 +18,7 @@ For our Client Operating System class final project, we developed a Virtual Priv
 - <b>Amazon Workspaces</b>
 - <b>Windows Virtual Server</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 OpenVPN Server: <br/>
